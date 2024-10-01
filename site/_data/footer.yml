@@ -8,4 +8,6 @@ footer_menu__settings:
       url: /projects/
     - title: Blog
       url: /blog/
+    - title: Resume
+      url: https://docs.google.com/document/d/1LmZufcFeW-DfJyBloKpJLVB7JkDRp4bo
 copyright_text_html:
