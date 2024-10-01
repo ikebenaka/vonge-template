@@ -55,8 +55,6 @@ collections_config:
       gallery:
     _editables:
     _inputs:
-      gradient_stop: hex(#294630)
-        type: color(#67764d)
     _select_data:
     _structures:
     disable_add: false
