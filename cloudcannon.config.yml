@@ -54,7 +54,9 @@ collections_config:
       metadata:
       gallery:
     _editables:
-    _inputs:
+    _inputs: 1
+      gradient_stop: 2
+        type: color 3
     _select_data:
     _structures:
     disable_add: false
@@ -76,7 +78,7 @@ collections_config:
         order: desc
       - key: position
       - key: position
-        order: desc
+        order: descin
     preview:
       text:
       subtext:
@@ -124,6 +126,8 @@ _inputs:
   tags:
     type: multiselect
     options:
+      format: rgb
+      alpha: true
       allow_create: true
       empty_type: array
     cascade: true
