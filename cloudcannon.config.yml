@@ -54,9 +54,7 @@ collections_config:
       metadata:
       gallery:
     _editables:
-    _inputs: 1
-      gradient_stop: 2
-        type: color 3
+    _inputs: 
     _select_data:
     _structures:
     disable_add: false
