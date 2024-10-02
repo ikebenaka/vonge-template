@@ -107,12 +107,24 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+  gallery:
+    path: collections/_gallery
+    output: true
+    description: ''
+    icon: photo
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas:
+      default:
+        path: site/schemas/gallery.md
 collection_groups:
   - heading: Content
     collections:
       - pages
       - projects
       - testimonials
+      - gallery
   - heading: Blogging
     collections:
       - posts
@@ -121,10 +133,6 @@ collection_groups:
     collections:
       - data
 _inputs:
-  gallery:
-    type: array
-  gallery[*]:
-    type: image
   gradient_stop:
     type: color
   tags:
