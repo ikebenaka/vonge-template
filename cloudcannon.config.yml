@@ -128,7 +128,7 @@ collections_config:
     disable_add_folder: false
     disable_file_actions: false
   gallery:
-    path: collections/_gallery
+    path: collections/photo_gallery
     output: true
     description: ''
     icon: photo

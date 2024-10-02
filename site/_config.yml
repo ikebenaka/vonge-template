@@ -1,4 +1,4 @@
-title: Vonge
+title: Ike
 
 plugins:
   - jekyll-bookshop
@@ -50,6 +50,7 @@ defaults:
       type: posts
     values:
       layout: post
+  
 
 # Tags
 tag_page_dir: tag
