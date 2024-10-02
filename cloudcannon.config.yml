@@ -121,6 +121,10 @@ collection_groups:
     collections:
       - data
 _inputs:
+  gallery:
+    type: array
+  gallery[*]:
+    type: image
   gradient_stop:
     type: color
   tags:
