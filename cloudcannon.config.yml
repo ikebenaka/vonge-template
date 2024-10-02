@@ -148,5 +148,3 @@ _structures:
     style: modal
 data_config: true
 timezone: Etc/UTC
-editor:
-  default_path: /home/
