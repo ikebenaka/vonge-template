@@ -3,7 +3,7 @@ _schema: default
 date: 2023-03-27 00:00:00
 title: NOAA Fisheries Scientist Interview Series
 subtitle:
-image: /uploads/chlorurus-frontalis-credit-kevin-lino.jpg
+image: /images/NOAA_Interview_Series/chlorurus-frontalis-credit-kevin-lino.jpg
 ---
 During my time at NOAA Fisheries HQ in Silver Spring, MD, I had the privilege of connecting with NOAA scientists from across the nation, each working at the forefront of climate change research and its impacts on ocean ecosystems. My goal was to delve into their full research journey—how they identified critical issues, developed methods to study them, and explored solutions in the face of a rapidly changing climate. Through engaging interviews, I helped bring their complex work to life, making the science accessible and captivating. The articles below debuted during NOAA Fisheries Earth Week 2022, highlighting these research stories.
 
