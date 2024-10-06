@@ -1,4 +1,4 @@
-/* Animate */
+/* Animate the post on home page when hovered over*/
 body:not(.stop-animations) .animate {
   animation: animateElement cubic-bezier(.300,.450,.450,.950) .75s;
   animation-duration: 0.75s;
